@@ -1,7 +1,7 @@
 About pseudorandom
 ==================
 
-Home: https://github.com/smathot/python-pseudorandom
+Home: https://github.com/open-cogsci/pseudorandom
 
 Package license: GPLv3
 
