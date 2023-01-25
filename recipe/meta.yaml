@@ -18,6 +18,7 @@ build:
 requirements:
   host:
     - pip
+    - flit
     - python >=3.6
     - datamatrix
 
